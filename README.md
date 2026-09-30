@@ -10,7 +10,7 @@ A local demo implementation matching the requested 5-step patient flow:
 
 ## Requirements
 - Node.js 18+
-- Python 3.10+
+- Python 3.10+. 
 - Optional local MongoDB
 - Optional Tesseract OCR installation for real image OCR
 
