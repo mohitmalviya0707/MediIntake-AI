@@ -15,7 +15,7 @@ A local demo implementation matching the requested 5-step patient flow:
 - Optional Tesseract OCR installation for real image OCR
 
 ## Start backend
-```bash
+```bash.     
 cd backend
 python -m venv .venv
 source .venv/bin/activate
